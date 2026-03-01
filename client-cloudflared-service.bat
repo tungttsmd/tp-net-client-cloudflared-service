@@ -21,4 +21,3 @@ echo.
 
 echo.
 echo %RED%[STOP]%RESET% TCP access stopped.
-pause
